@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635109137429",
+    "project_id": "mobile-project-595ba",
+    "storage_bucket": "mobile-project-595ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635109137429:android:366b7330a367c7fd86c21c",
+        "android_client_info": {
+          "package_name": "com.annita.facialdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635109137429-r6kailq48sugtmb9h84bm98ohqt5pmc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkd6B2o3cdOXGJVJTUfy5E_c5I9KsPi7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635109137429-r6kailq48sugtmb9h84bm98ohqt5pmc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
